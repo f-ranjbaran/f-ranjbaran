@@ -1,6 +1,7 @@
 ### ✨About Me:
+Master's degree in Artificial Intelligence
 
-<!-- Master degree in Artificial Intelligence
+<!-- 
 **f-ranjbaran/f-ranjbaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
