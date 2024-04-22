@@ -1,7 +1,8 @@
 ### ✨About Me:
 Master's degree in Artificial Intelligence
-
 <!-- 
+`# Social Network:`
+### https://www.linkedin.com/in/fatemeh-ranjbaran/
 **f-ranjbaran/f-ranjbaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
