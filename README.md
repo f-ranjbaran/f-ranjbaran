@@ -2,7 +2,7 @@
 Master's degree in Artificial Intelligence
 ----------------------------------------------------
 # Social Network: 
-[![LinkedIn Logo](image URL)](https://www.linkedin.com/in/fatemeh-ranjbaran/)
+[![LinkedIn Logo](https://github.com/f-ranjbaran/Solving-resistance-challenge-using-Prolog/blob/main/LinkedIn.png)](https://www.linkedin.com/in/fatemeh-ranjbaran/)
 
 <!-- 
 # Social Network:`
