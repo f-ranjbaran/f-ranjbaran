@@ -1,5 +1,4 @@
 ### ✨About Me:
-Master's degree in Artificial Intelligence
 ----------------------------------------------------
 <img src="https://cdn-icons-png.freepik.com/512/364/364575.png" alt="Social Network" width="15"/> Social Network
 
@@ -19,5 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> Added image before 'Social Network' text
-Added image before 'Social Network'
+--> 
