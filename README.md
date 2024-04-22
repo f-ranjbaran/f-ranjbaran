@@ -2,7 +2,8 @@
 Master's degree in Artificial Intelligence
 ----------------------------------------------------
 # Social Network: 
-https://www.linkedin.com/in/fatemeh-ranjbaran/
+[![LinkedIn Logo](image URL)](https://www.linkedin.com/in/fatemeh-ranjbaran/)
+
 <!-- 
 # Social Network:`
 ### https://www.linkedin.com/in/fatemeh-ranjbaran/
