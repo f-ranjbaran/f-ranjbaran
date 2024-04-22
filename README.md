@@ -1,7 +1,7 @@
 ### ✨About Me:
 Master's degree in Artificial Intelligence
 ----------------------------------------------------
-# [![Social Logo](https://github.com/f-ranjbaran/Solving-resistance-challenge-using-Prolog/blob/main/sn2-removebg-preview.png)Social: 
+# (https://github.com/f-ranjbaran/Solving-resistance-challenge-using-Prolog/blob/main/sn2-removebg-preview.png) Social: 
 [![LinkedIn Logo](https://github.com/f-ranjbaran/Solving-resistance-challenge-using-Prolog/blob/main/download%20(1).png)](https://www.linkedin.com/in/fatemeh-ranjbaran/)
 
 <!-- 
