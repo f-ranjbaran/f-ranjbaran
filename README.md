@@ -1,6 +1,6 @@
 
 # ✨ About Me:
-#I am studying for a master's in artificial intelligence at the University of Bologna. My interests include applying AI research, deep learning, machine learning, and computer vision.
+I am studying for a master's in artificial intelligence at the University of Bologna. My interests include applying AI research, deep learning, machine learning, and computer vision.
 <img src="https://cdn-icons-png.freepik.com/512/364/364575.png" alt="Social Network" width="15"/> Social Network
 
 [<img src="https://img.freepik.com/free-psd/3d-icon-social-media-app_23-2150049587.jpg?t=st=1713819526~exp=1713823126~hmac=55882e750c42de06d351576aab48c615775236e24fd862644a4cda1a013a0631&w=360" alt="LinkedIn Logo" width="15"/>](https://www.linkedin.com/in/fatemeh-ranjbaran/) LinkedIn
