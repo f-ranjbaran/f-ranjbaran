@@ -3,7 +3,8 @@
 I am studying for a master's in artificial intelligence at the University of Bologna. My interests include applying AI research, deep learning, machine learning, and computer vision.
 
 # <img src="https://cdn-icons-png.freepik.com/512/364/364575.png" alt="Social Network" width="15"/> Social Network
-![LinkedIn Logo](https://github.com/f-ranjbaran/Solving-resistance-challenge-using-Prolog/blob/main/LinkedIn123%20(1).jpg) 
+[![LinkedIn Logo](https://github.com/f-ranjbaran/Solving-resistance-challenge-using-Prolog/blob/main/LinkedIn123%20(1).jpg)](https://www.linkedin.com/in/fatemeh-ranjbaran/)
+
 <!-- 
 # Social Network:`
 ### https://www.linkedin.com/in/fatemeh-ranjbaran/
