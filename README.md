@@ -1,5 +1,5 @@
 # ✨ About Me:
-I am studying for a master's in artificial intelligence at the University of Bologna. My interests include applying AI research, deep learning, machine learning, and computer vision.
+I am studying for a master's in artificial intelligence at the University of Bologna. Expert in computer vision, object Detection, Event Detection and Pose Estimation.
 
 ## 🌐 Socials Network:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-ranjbaran/)
