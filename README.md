@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studying for a master's in artificial intelligence at the University of Bologna. Expert in computer vision, object Detection, Event Detection and Pose Estimation.
+AI & Computer Vision Engineer with an M.Sc. in Artificial Intelligence from the University of Bologna. Experienced in deep learning, 3D perception, object detection, pose estimation, and edge deployment.
 #
 ## 🌐 Social Networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-ranjbaran/)
