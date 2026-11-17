@@ -3,6 +3,7 @@ AI & Computer Vision Engineer with an M.Sc. in Artificial Intelligence from the 
 #
 ## 🌐 Social Networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-ranjbaran/)
+[![Website](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://f-ranjbaran.github.io)
 #
 ## 💻 Tech Stack
 
@@ -32,6 +33,17 @@ AI & Computer Vision Engineer with an M.Sc. in Artificial Intelligence from the 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23285489.svg?style=for-the-badge&logo=Matplotlib)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat&logo=ros&logoColor=white)
+![MoveIt](https://img.shields.io/badge/MoveIt-00599C?style=flat&logo=ros&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat&logo=intel&logoColor=white)
+![Intel RealSense](https://img.shields.io/badge/Intel_RealSense-0068B5?style=flat&logo=intel&logoColor=white)
+![ZED SDK](https://img.shields.io/badge/ZED_SDK-1E88E5?style=flat&logoColor=white)
+![DepthAI](https://img.shields.io/badge/DepthAI_OAK--D-4CAF50?style=flat&logoColor=white)
+![OPC-UA](https://img.shields.io/badge/OPC--UA-004B87?style=flat&logoColor=white)
+![PLC](https://img.shields.io/badge/Industrial_PLC-37474F?style=flat&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=gradio&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+#
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=f-ranjbaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1)<br/>
